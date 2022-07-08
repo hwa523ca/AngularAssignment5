@@ -1,0 +1,54 @@
+input[type="button"] {
+    padding: 8px;
+    border: solid;
+    border-radius: 8px;
+}
+input[type="text"] {
+    border-color: black;
+    border: solid;
+}
+input[value="Add"] {
+    background-color:red;
+}
+input[value="Sub"] {
+    background-color: gold;
+}
+input[value="Mul"] {
+    background-color: dodgerblue;
+}
+input[value="Div"] {
+    background-color: lawngreen;
+}
+div[class="column"]{
+    padding: 10px;
+}
+div[id="firN"] {
+    padding-left: 25px;
+}
+div[id="secN"] {
+    padding-left: 7px;
+}
+div[id="reN"] {
+    padding-left: 70px;
+}
+div[id="thebuttons"] {
+    padding-left: 80px;
+    padding-bottom: 8px;
+}
+div[class="wrapper"] {
+    background-color: gray;
+    border: solid;
+    max-width: 350px;
+}
+button[value="Add"] {
+    background-color:red;
+}
+button[value="Sub"] {
+    background-color: gold;
+}
+button[value="Mul"] {
+    background-color: dodgerblue;
+}
+button[value="Div"] {
+    background-color: lawngreen;
+}
